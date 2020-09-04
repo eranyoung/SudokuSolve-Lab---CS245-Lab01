@@ -5,7 +5,7 @@ Group Members: Eran Young
                Anthony Licea
 
 
-Running Time: O(9*(n^2))
+Running Time: O(9^(n^2))
   Explanation: A board has n * n cells, each cell has 9 possible values
   
 Memory: O(n^2)
